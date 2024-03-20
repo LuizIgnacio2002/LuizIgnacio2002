@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz2002</h1>
-<h3 align="center">A passionate developer from Peru, passionate about mathematics and language learning.</h3>
+<h3 align="center">A passionate developer from Peru.</h3>
 
 - 🌱 I’m currently learning **React**
 
