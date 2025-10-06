@@ -72,7 +72,7 @@
   </table>
 </div>
 
-## 🚀 Trayectoria Profesional
+## 🚀 Acerca de Mí
 
 - 🔭 Actualmente me encuentro en la búsqueda de oportunidades para aplicar mis conocimientos en **ciencia de datos** y **construcción de modelos de ML**, además de **aprender más acerca de AWS** y practicar constantemente para mejorar mis habilidades.
 - 👯 Busco colaborar en proyectos que generen un **impacto social positivo**.
